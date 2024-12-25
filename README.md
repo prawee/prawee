@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prawee)](https://github.com/prawee/github-readme-stats)
+<a href="https://github.com/prawee">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prawee&show_icons=true" />
+</a>
+<a href="https://github.com/prawee/cyber-security">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prawee&layout=compact&langs_count=8&card_width=320" />
+</a>
