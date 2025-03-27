@@ -5,7 +5,7 @@ DevOps Engineer
 ---------------
 
 * 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [prawee@hotmail.com](mailto:prawee@hotmail.com)
+* ✉️  You can contact me at [prawee@hotmail.com](mailto:prawee@hotmail.com) , [prawee@brtinnovation](mailto:prawee@brtinnovation.com)
 <!--* 🚀  I'm currently working on [Software Development Division Manager](http://www.teohong.com)-->
 * 🚀  I'm currently working on [Senior Full stack developer](http://github.com/prawee) at BRT Innovation
 * 🧠  I'm learning Rust, IoT
