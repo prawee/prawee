@@ -7,7 +7,7 @@ DevOps Engineer
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [prawee@hotmail.com](mailto:prawee@hotmail.com) , [prawee@brtinnovation.com](mailto:prawee@brtinnovation.com) , [prawee.won@techflow.asia](mailto:prawee.won@techflow.asia)
 <!--* 🚀  I'm currently working on [Software Development Division Manager](http://www.teohong.com)-->
-* 🚀  I'm currently working at BRT Innovation, Techflow Solution and KMUTNB
+* 🚀  I'm currently working at BRT Innovation, Techflow Solution, RMUTP and KMUTNB
 * 🧠  I'm learning Rust, IoT and AI
 * 🤝  I'm open to collaborating on Smart Farm, AI Agent
 
